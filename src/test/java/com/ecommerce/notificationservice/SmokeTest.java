@@ -1,4 +1,4 @@
-﻿package com.ecommerce.notificationservice;
+package com.ecommerce.notificationservice;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

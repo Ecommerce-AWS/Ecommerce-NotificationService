@@ -1,4 +1,4 @@
-﻿# Ecommerce-NotificationService
+# Ecommerce-NotificationService
 
 Email/SMS/push, Kafka, retry with DLQ
 
